@@ -5,6 +5,7 @@ I'm Manuel Rabade, Computer Engineer.
 🛠️ I'm currently working on
 
 - [Homelab](https://github.com/manuel-rabade/homelab) is a configuration guide for my personal infraestructure.
+- [Dotfiles](https://github.com/manuel-rabade/home-dotfiles) because home is where my dotfiles are.
 
 💾 Projects of the past that still shine
 
