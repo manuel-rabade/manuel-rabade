@@ -27,6 +27,7 @@ I'm Manuel Rabade, Computer Engineer.
 
 🎓 Cool academic legacies
 
+- [SAME alerts receiver](https://github.com/manuel-rabade/receptor-alertas-same), is the hardware design and source code for my thesis project to graduate as a Computer Engineer.
 - [Von Neumann Microprocessor in VHDL](https://github.com/manuel-rabade/von_neumann), my final project for the Computer Architecture course.
 - [Merkle-Hellman encryption system](https://github.com/manuel-rabade/merkle-hellman) didactic implementation. My final project for the Discrete Structures course.
 
@@ -34,18 +35,3 @@ I'm Manuel Rabade, Computer Engineer.
 
 - Email me at [manuel@rabade.net](mailto:manuel@rabade.net).
 - Follow me on [X](https://twitter.com/manuelrabade), [Mastodon](https://mstdn.mx/@manuelrabade) or [Threads](https://www.threads.net/@manuelrabade).
-
-<!--
-**manuel-rabade/manuel-rabade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
